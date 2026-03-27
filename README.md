@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# Hi, I'm Chitra Prabhakar 👋
+- 🎓 B.Tech CSE – First Year, VIT Bhopal University
+- 🔢 Reg. No.: 25BAI10934
+-  I hope to learn full-stack web development 
+  and machine learning during my four years at VIT Bhopal.
+
 <!--
 **Chitraprabhakar2405/Chitraprabhakar2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
